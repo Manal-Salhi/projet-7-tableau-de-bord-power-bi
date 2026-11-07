@@ -35,7 +35,7 @@ Ma mission : **concevoir un tableau de bord Power BI** qui permette aux directeu
 
    **Le tableau de bord**
 
-   ![Tableau de bord](tableau-de-bord.png) -->
+   ![Tableau de bord](tableau-de-bord.png) 
 
 ## 📁 Fichiers du projet
 
