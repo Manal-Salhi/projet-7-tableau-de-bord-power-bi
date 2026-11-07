@@ -33,8 +33,9 @@ Ma mission : **concevoir un tableau de bord Power BI** qui permette aux directeu
 
 ![Modèle de données](modele-de-donnees.png)
 
-<!-- Ajoute ici une capture de la page d accueil du tableau de bord :
-![Tableau de bord](tableau-de-bord.png) -->
+   **Le tableau de bord**
+
+   ![Tableau de bord](tableau-de-bord.png) -->
 
 ## 📁 Fichiers du projet
 
